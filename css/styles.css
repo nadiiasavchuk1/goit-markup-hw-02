@@ -61,3 +61,27 @@ color:#f4f4fd;}
   margin-right: 76px;
 }
 
+.background-color{
+  background-color:#2e2f42;
+width: 1440px;
+height: 600px;
+}
+.button-color{
+  background-color:#4D5AE5;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+.headline-text{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button-box{
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+cursor: pointer;
+}
