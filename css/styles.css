@@ -131,10 +131,15 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 
-.team-list
-.team-item
+.team-list{
+  background-color: #FFFFFF
+}
+.team-item{
+  background-color: #ffffff;
+}
 
 .team-names-text{
 font-weight: 500;
